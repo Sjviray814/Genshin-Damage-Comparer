@@ -14,7 +14,7 @@ Also, make sure you have genshin open because you are gonna need to collect some
 6. Read the steps that I wrote in the text that you just pasted to continue, you will need genshin to be open and you will need to find your damage when you crit and when you don't crit for each build.  Make sure you use the same talent, hits and buffs when you are finding the numbers.  This varies from character to character but try to use whatever is that character's main source of damage.  For example, if you are testing hu tao, find her crit and non crit vape charge attack.  If you are testing Keqing builds, you can use her E or her Q damage or even her normal/charge atks.
 7. When you find these numbers, look inside the text you just pasted for further instructions.
 8. When you are finished, press the blue run button at the top of the screen (or run the file another way if you want)
-9. Whichever number is higher is the set that does more damage.
+9. Whichever number is higher is the set that does more damage.  If a number is way higher for one set (900 vs 100) then it will be more better (i hope that make sense) than if a number is slightly higher for one set (600 vs 400).  You can press the run button multiple times to see more results if you want.
 
 
 
